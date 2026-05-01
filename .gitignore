@@ -1,0 +1,7 @@
+.env
+*.log
+*.key
+*.pem
+*.pub
+terraform/.terraform/
+terraform/terraform.tfstate*
