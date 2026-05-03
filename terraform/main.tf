@@ -44,6 +44,10 @@ resource "google_compute_instance" "minecraft" {
   zone         = var.zone
 
   tags = ["minecraft-server"]
+  
+  metadata = {
+    enable-oslogin = "TRUE"
+   }
 
   boot_disk {
     initialize_params {
