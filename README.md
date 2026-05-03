@@ -2,6 +2,10 @@
 
 > Fully automated, cost-optimized Minecraft server deployment using Terraform, CI/CD, and cloud best practices.
 
+
+![Terraform](https://img.shields.io/badge/Terraform-IaC-blue)
+![GCP](https://img.shields.io/badge/GCP-Cloud-orange)
+![CI/CD](https://img.shields.io/badge/CI/CD-GitHub%20Actions-green)
 ---
 
 ## 🧠 Why this project?
