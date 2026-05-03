@@ -20,7 +20,12 @@ This project demonstrates **real-world DevOps skills**, not just tutorials:
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](./docs/images/gcp-minecraft-architecture.png)
+![Architecture Diagram](https://raw.githubusercontent.com/Dafrawys/minecraft-gcp-server/main/docs/images/gcp-minecraft-architecture.png)
+## 🏗️ Architecture
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dafrawys/minecraft-gcp-server/main/docs/images/gcp-minecraft-architecture.png" width="700"/>
+</p>
 
 ### 🧩 Architecture Explanation
 
